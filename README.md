@@ -13,7 +13,7 @@ Used versions, see `.tool-versions`
 Here are the steps to reproduce:
 
 
-```bash
+```
 git clone git@github.com:PragTob/ecto_explain_timeout.git
 cd ecto_explain_timeout
 mix deps.get
