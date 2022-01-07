@@ -14,8 +14,8 @@ Here are the steps to reproduce:
 
 
 ```bash
-git clone ...
-cd explain_timeout
+git clone git@github.com:PragTob/ecto_explain_timeout.git
+cd ecto_explain_timeout
 mix deps.get
 # adjust config.exs for Postgres config or set POSTGRES_USER and POSTGRES_PASSWORD
 mix ecto.setup
