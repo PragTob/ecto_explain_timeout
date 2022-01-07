@@ -8,6 +8,8 @@ It is reproduced here with a lower timeout for the intent of showcasing it, the 
 Ecto.Adapters.SQL.explain(Repo, :all, Post, analyze: true, timeout: 20_000)
 ```
 
+Used versions, see `.tool-versions`
+
 Here are the steps to reproduce:
 
 
